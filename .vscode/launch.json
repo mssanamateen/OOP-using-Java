@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FactImpl",
+            "request": "launch",
+            "mainClass": "basics.FactImpl",
+            "projectName": "OOP-using-Java_b9476530"
+        },
+        {
+            "type": "java",
+            "name": "StudentImpl",
+            "request": "launch",
+            "mainClass": "basics.StudentImpl",
+            "projectName": "OOP-using-Java_b9476530"
+        },
+        {
+            "type": "java",
             "name": "ArithmeticOp",
             "request": "launch",
             "mainClass": "basics.ArithmeticOp",
