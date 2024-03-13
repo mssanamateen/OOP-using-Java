@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NarrowCastExample",
+            "request": "launch",
+            "mainClass": "basics.NarrowCastExample",
+            "projectName": "OOP-using-Java_b9476530"
+        },
+        {
+            "type": "java",
+            "name": "TypeConv",
+            "request": "launch",
+            "mainClass": "basics.TypeConv",
+            "projectName": "OOP-using-Java_b9476530"
+        },
+        {
+            "type": "java",
             "name": "ArmstrongImpl",
             "request": "launch",
             "mainClass": "basics.ArmstrongImpl",
