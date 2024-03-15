@@ -1,4 +1,4 @@
-package basics;
+package basics.datatype;
 
 public class NarrowCastExample {
     public static void main(String[] args) {

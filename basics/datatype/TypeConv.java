@@ -1,4 +1,4 @@
-package basics;
+package basics.datatype;
 
 public class TypeConv {
     public static void main(String[] args) {
