@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Datatype",
+            "request": "launch",
+            "mainClass": "basics.datatype.Datatype",
+            "projectName": "OOP-using-Java_b9476530"
+        },
+        {
+            "type": "java",
+            "name": "CricketerImpl",
+            "request": "launch",
+            "mainClass": "basics.variables.CricketerImpl",
+            "projectName": "OOP-using-Java_b9476530"
+        },
+        {
+            "type": "java",
+            "name": "InstanceVar",
+            "request": "launch",
+            "mainClass": "basics.variables.InstanceVar",
+            "projectName": "OOP-using-Java_b9476530"
+        },
+        {
+            "type": "java",
+            "name": "NestedIf",
+            "request": "launch",
+            "mainClass": "basics.controlstatements.NestedIf",
+            "projectName": "OOP-using-Java_b9476530"
+        },
+        {
+            "type": "java",
+            "name": "Ifstmt",
+            "request": "launch",
+            "mainClass": "basics.controlstatements.Ifstmt",
+            "projectName": "OOP-using-Java_b9476530"
+        },
+        {
+            "type": "java",
             "name": "NarrowCastExample",
             "request": "launch",
             "mainClass": "basics.NarrowCastExample",
