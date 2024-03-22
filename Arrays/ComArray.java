@@ -1,4 +1,5 @@
-class ComArray{
+public class ComArray{
+	int[] arr3={4,7,3,9,2};
 		public static void main(String[] args) {
 			/*common array element*/
 			int[] arr1={4,7,3,9,2};
