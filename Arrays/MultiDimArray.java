@@ -1,4 +1,5 @@
 import java.util.*;
+/** two dimensional array program**/
 class MultiDimArray{
 	public static void main(String[] ar){
 		int marks[][]=new int[10][2];
