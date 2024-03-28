@@ -1,3 +1,4 @@
+
 import java.util.*;
 public class MultiDimArray {
 		public static void main(String[] args) {
@@ -20,3 +21,4 @@ public class MultiDimArray {
 
 	}
 }
+
