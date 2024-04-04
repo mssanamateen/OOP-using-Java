@@ -1,4 +1,4 @@
-# Java Conditional Statements
+# Java Conditional Statements.
 
 In Java programming, conditional statements are used to perform different actions based on different conditions. There are mainly three types of conditional statements in Java: `if`, `else if`, and `else`.
 
